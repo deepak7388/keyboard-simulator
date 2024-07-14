@@ -1,4 +1,4 @@
-# Keyboard Simulator - [Live_demo]()
+# Keyboard Simulator - [Live_demo](https://deepak7388.github.io/keyboard-simulator/)
 
 ![Landing Page](img/Landing.png)
 Keyboard Simulator that simulates typing on a variety of custom keyswitches and offers a simple typing test.
